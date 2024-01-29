@@ -1,0 +1,2 @@
+export * from './WindowControl'
+export { default } from './WindowControl'

@@ -1,0 +1,5 @@
+export type AppControlAction = 'devtools' | 'minimize' | 'maximize' | 'close';
+
+const appControl = (action: AppControlAction) => {
+    window.electron.appControl(action);
+  };

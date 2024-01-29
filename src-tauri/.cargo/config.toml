@@ -1,0 +1,2 @@
+# 회사에서 SSL 인증서 문제로 http 사용 # For TSL Issue In My Company's Intranet Network
+http.check-revoke = false
