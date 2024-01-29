@@ -1,6 +1,9 @@
 # React + TypeScript + TAURI + Vite + SWC
 
-## 진행상황
+# 🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗
+
+
+## 🏗 진행상황 🏗
 
 ### 화면:
 
@@ -26,6 +29,16 @@ pnpm dlx shadcn-ui@latest add [component]
 ---
 
 <br>
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#roadmap">Roadmap</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#license">License</a>
+  <!--
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  -->
 
 ![Toolkit](https://img.shields.io/badge/App%20Dev%20Toolkit-black)
 
@@ -88,6 +101,8 @@ pnpm dlx shadcn-ui@latest add [component]
 <img alt="prettier" src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
 <img alt="lodash" src="https://img.shields.io/badge/lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white">
 <img src="https://img.shields.io/badge/shields.io-000000?style=for-the-badge&logo=shieldsdotio">
+
+</p>
 
 <br>
 <br>
