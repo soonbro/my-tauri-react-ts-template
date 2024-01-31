@@ -1,9 +1,10 @@
-import { ModeToggle } from "@/components/mode-toggle";
+//import { ModeToggle } from "@/components/mode-toggle";
 import HeaderLeft from "./HeaderLeft";
 import HeaderMiddle from "./HeaderMiddle";
 import HeaderRight from "./HeaderRight";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 import { cn } from "@/lib/utils";
+import ThemeToggle from "@/components/ThemeToggle/ThemeToggle";
 
 export interface HeaderProps {
   className?: string;
@@ -32,7 +33,7 @@ const HeaderLayout = ({ className, children }: HeaderProps) => {
         {children}
       </HeaderMiddle>
       <HeaderRight>
-        <ModeToggle />
+        <ThemeToggle></ThemeToggle>
         <Avatar className=" hover:border border-primary">
           <AvatarImage src="https://github.com/soonbro.png" />
           <AvatarFallback>SB</AvatarFallback>

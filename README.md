@@ -2,9 +2,14 @@
 
 # 🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗🏗
 
+# 📚 START FROM SCRATCH
+## 🚨 ⚠ Disclaimer ⚠ 🚨
+I haven't studied HTML5, CSS3, TypeScript, React, and Rust enough. I'm learning and developing from scratch.  
+So, my code may have some elementary level mistakes, and you can help me!
 
-## 🏗 진행상황 🏗
+## 🏗 Dev Progress 🏗
 
+### 진행상황
 ### 화면:
 
 - 기본 레이아웃 구성 (Layout)
