@@ -18,6 +18,7 @@ So, my code may have some elementary level mistakes, and you can help me!
   
 - Add shadcn ui mail example ()(2024.02.01)
   ![mail](/public/image/20240201_SoonApp_v0.0.0.JPG)
+  ![mail_light](/public/image/20240201_SoonApp_v0.0.0_light.JPG)
   I use react-router-dom and localStorage (shadcn use next/link and cookie)
   
 
