@@ -22,7 +22,7 @@ const ThemeToggle = () => {
         className="dn sr-only"
         id="dn"
         checked={useTheme().theme === "dark" ? true : false}
-        onClick={() => {
+        onChange={() => {
           let curTheme = localStorage.getItem("soon-theme") as Theme;
           if (curTheme !== "system")
             curTheme === "dark" ? setTheme("light") : setTheme("dark");

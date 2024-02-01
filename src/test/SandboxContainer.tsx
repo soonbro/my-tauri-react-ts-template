@@ -2,6 +2,7 @@ import { cn } from "@/lib/utils";
 
 export default function SandboxContainer({
   className,
+  children,
   ...props
 }: React.HTMLAttributes<HTMLDivElement>) {
   return (
@@ -11,6 +12,8 @@ export default function SandboxContainer({
         className
       )}
       {...props}
-    />
+    >
+      {children}
+    </div>
   );
 }
