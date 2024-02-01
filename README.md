@@ -15,6 +15,12 @@ So, my code may have some elementary level mistakes, and you can help me!
 - 기본 레이아웃 구성 (Layout)
   ![img](/public/image/SoonApp_v0.0.0.JPG)
 
+  
+- Add shadcn ui mail example ()(2024.02.01)
+  ![mail](/public/image/20240201_SoonApp_v0.0.0.JPG)
+  I use react-router-dom and localStorage (shadcn use next/link and cookie)
+  
+
 ## Add Components
 
 <img alt="Radix" src="https://img.shields.io/badge/radix%20ui-161618?style=for-the-badge&logo=radixui&logoColor=white">
